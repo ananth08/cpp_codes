@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ananthrkn/CLionProjects/MergeSort
+# Install script for directory: /Users/ananthrkn/CLionProjects/cpp_codes/MergeSort
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/ananthrkn/CLionProjects/MergeSort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/ananthrkn/CLionProjects/cpp_codes/MergeSort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

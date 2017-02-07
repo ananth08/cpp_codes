@@ -1,3 +1,3 @@
-/Users/ananthrkn/CLionProjects/QuickSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ananthrkn/CLionProjects/QuickSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ananthrkn/CLionProjects/QuickSort/cmake-build-debug/CMakeFiles/QuickSort.dir
+/Users/ananthrkn/CLionProjects/cpp_codes/QuickSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ananthrkn/CLionProjects/cpp_codes/QuickSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ananthrkn/CLionProjects/cpp_codes/QuickSort/cmake-build-debug/CMakeFiles/QuickSort.dir

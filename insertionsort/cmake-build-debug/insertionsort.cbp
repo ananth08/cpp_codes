@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug"/>
+				<Option working_dir="/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug"/>
+				<Option working_dir="/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug"/>
+				<Option working_dir="/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="insertionsort">
-				<Option output="/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/insertionsort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug"/>
+				<Option output="/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/insertionsort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 insertionsort"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 insertionsort"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="insertionsort/fast">
-				<Option output="/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/insertionsort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug"/>
+				<Option output="/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/insertionsort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,17 +75,17 @@
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 insertionsort/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 insertionsort/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/ananthrkn/CLionProjects/insertionsort/main.cpp">
+		<Unit filename="/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/main.cpp">
 			<Option target="insertionsort"/>
 		</Unit>
-		<Unit filename="/Users/ananthrkn/CLionProjects/insertionsort/CMakeLists.txt">
+		<Unit filename="/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

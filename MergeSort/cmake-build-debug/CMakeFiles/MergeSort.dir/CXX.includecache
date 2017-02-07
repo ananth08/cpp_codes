@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/ananthrkn/CLionProjects/MergeSort/main.cpp
+/Users/ananthrkn/CLionProjects/cpp_codes/MergeSort/main.cpp
 stdlib.h
 -
 stdio.h

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ananthrkn/CLionProjects/insertionsort
+# Install script for directory: /Users/ananthrkn/CLionProjects/cpp_codes/insertionsort
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/ananthrkn/CLionProjects/insertionsort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/ananthrkn/CLionProjects/cpp_codes/insertionsort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
